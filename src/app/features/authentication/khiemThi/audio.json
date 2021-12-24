@@ -1,0 +1,90 @@
+[
+	{
+		"text": "Lỗi file audio",
+		"fileAudio": "https://nkt.dttt.vn/UserData/AudioDieuHuong/home/1.mp3"
+	},
+	{
+		"text": "Chức năng chưa có.",
+		"fileAudio": "https://nkt.dttt.vn/UserData/AudioDieuHuong/home/2.mp3"
+	},
+	{
+		"text": "Hệ thống chưa nhận được phản hồi của bạn",
+		"fileAudio": "https://nkt.dttt.vn/UserData/AudioDieuHuong/home/3.mp3"
+	},
+	{
+		"text": "Nội dung không chính xác.",
+		"fileAudio": "https://nkt.dttt.vn/UserData/AudioDieuHuong/home/4.mp3"
+	},
+	{
+		"text": "Nói đồng ý để quay lại.",
+		"fileAudio": "https://nkt.dttt.vn/UserData/AudioDieuHuong/home/5.mp3"
+	},
+	{
+		"text": "Bạn đang ở màn hình trang chủ, vui lòng làm theo hướng dẫn sau để truy cập chức năng mong muốn.",
+		"fileAudio": "https://nkt.dttt.vn/UserData/AudioDieuHuong/home/6.mp3"
+	},
+	{
+		"text": "Nói 1, Để truy cập chức năng đăng ký, cập nhập thông tin người khuyết tật ; Nói 2, Để truy cập chức năng cập nhật nhu cầu hỗ trợ. Nói 3, Để truy cập chức năng đăng ký Cấp, cấp lại giấy xác nhận khuyết tật;  xác định, xác định lại mức độ khuyết tật.",
+		"fileAudio": "https://nkt.dttt.vn/UserData/AudioDieuHuong/home/home.mp3"
+	},
+	{
+		"text": "Bạn đang ở màn hình chức năng cập nhật nhu cầu hỗ trợ.",
+		"fileAudio": "https://nkt.dttt.vn/UserData/AudioDieuHuong/home/8.mp3"
+	},
+	{
+		"text": "Nói đồng ý để tiếp tục. Nói hủy để quay lại.",
+		"fileAudio": "https://nkt.dttt.vn/UserData/AudioDieuHuong/home/9.mp3"
+	},
+	{
+		"text": "Yêu cầu hỗ trợ của bạn không hợp lệ. Bạn chọn tối thiểu 1 nhu cầu để gửi lên cấp xã.",
+		"fileAudio": "https://nkt.dttt.vn/UserData/AudioDieuHuong/home/10.mp3"
+	},
+	{
+		"text": "Nói tiếp tục để nhập lại yêu cầu hỗ trợ, nói hủy để quay lại màn hình chính.",
+		"fileAudio": "https://nkt.dttt.vn/UserData/AudioDieuHuong/home/11.mp3"
+	},
+	{
+		"text": "Bạn đang ở màn hình chức năng đăng ký, cập nhật thông tin người khuyết tật.",
+		"fileAudio": "https://nkt.dttt.vn/UserData/AudioDieuHuong/1/1.1.mp3"
+	},
+	{
+		"text": "Đơn của bạn đã được gửi thành công và chờ xã duyệt.",
+		"fileAudio": "https://nkt.dttt.vn/UserData/AudioDieuHuong/home/13.mp3"
+	},
+	{
+		"text": "Nói đồng ý để quay lại màn hình chính.",
+		"fileAudio": "https://nkt.dttt.vn/UserData/AudioDieuHuong/home/14.mp3"
+	},
+	{
+		"text": "Bạn đã hoàn thành nhập thông tin chung và thông tin thực trạng, vui lòng nói Lưu để lưu lại thông tin hoặc nói quay lại để quay lại màn hình chính.",
+		"fileAudio": "https://nkt.dttt.vn/UserData/AudioDieuHuong/home/15.mp3"
+	},
+	{
+		"text": "Có lỗi xảy ra trong quá trình nhập. Vui lòng kiểm tra lại trường thông tin sau.",
+		"fileAudio": "https://nkt.dttt.vn/UserData/AudioDieuHuong/home/16.mp3"
+	},
+	{
+		"text": "Bạn đã lưu thành công.",
+		"fileAudio": "https://nkt.dttt.vn/UserData/AudioDieuHuong/home/17.mp3"
+	},
+	{
+		"text": "Nói Gửi đơn để gửi đơn lên xã duyệt, nói quay lại để quay lại màn hình chính.",
+		"fileAudio": "https://nkt.dttt.vn/UserData/AudioDieuHuong/home/18.mp3"
+	},
+	{
+		"text": "Bạn đã hoàn thành việc nhập cập nhật các yêu cầu hỗ trợ. Nói đồng ý để gửi đơn lên cấp xã. Nói hủy, để quay lại màn hình chính.",
+		"fileAudio": "https://nkt.dttt.vn/UserData/AudioDieuHuong/home/19.mp3"
+	},
+	{
+		"text": "Nói quay lại để quay lại màn hình chính. Nói tiếp tục để tạo đơn yêu cầu mới.",
+		"fileAudio": "https://nkt.dttt.vn/UserData/AudioDieuHuong/home/20.mp3"
+	},
+	{
+		"text": "Bạn chưa hoàn thành việc nhập dữ liệu, nói tạo mới để tạo mới, nói tiếp tục để tiếp tục nhập dữ liệu.",
+		"fileAudio": "https://nkt.dttt.vn/UserData//AudioDieuHuong/home/21.mp3"
+	},
+	{
+		"text": "Bạn chưa hoàn thành việc nhập dữ liệu các thông tin chưa chính xác, nói làm lại để nhập lại, nói tiếp tục để tiếp tục nhập dữ liệu.",
+		"fileAudio": "https://nkt.dttt.vn/UserData/AudioDieuHuong/home/22.mp3"
+	}
+]

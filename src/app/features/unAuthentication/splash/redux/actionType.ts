@@ -1,0 +1,1 @@
+export const CHECK_TOKEN_EXPIRE = 'CHECK_TOKEN_EXPIRE'

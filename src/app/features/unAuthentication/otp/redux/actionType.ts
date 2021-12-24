@@ -1,0 +1,11 @@
+export const SEND_OTP_START = 'SEND_OTP_START';
+export const SEND_OTP_FAILED = 'SEND_OTP_FAILED';
+export const SEND_OTP_SUCCESS = 'SEND_OTP_SUCCESS';
+export const SEND_OTP = 'SEND_OTP';
+
+export const RE_SEND_OTP_START = 'RE_SEND_OTP_START';
+export const RE_SEND_OTP_FAILED = 'RE_SEND_OTP_FAILED';
+export const RE_SEND_OTP_SUCCESS = 'RE_SEND_OTP_SUCCESS';
+export const RE_SEND_OTP = 'RE_SEND_OTP';
+
+export const RESET_STATE_OTP = 'RESET_STATE_OTP'

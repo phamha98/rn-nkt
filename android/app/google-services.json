@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "771863462355",
+    "project_id": "nkt-app-297208",
+    "storage_bucket": "nkt-app-297208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771863462355:android:86ea504573180b61e36f26",
+        "android_client_info": {
+          "package_name": "com.btxh.nktnnbm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771863462355-2eutbav39tr75adhip778lau978d67o1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.btxh.nktnnbm",
+            "certificate_hash": "5a2173a72bf6cfffe24f5a82c474332b0c4d240b"
+          }
+        },
+        {
+          "client_id": "771863462355-hrd719690h83bkal7d9e7do7sg90jrra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyik-B_iROel1Z2-yE6ffV_bnMS4FSGHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771863462355-hrd719690h83bkal7d9e7do7sg90jrra.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "771863462355-i66bii4agjenk8a2a54ju2g4ddg04m5q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.btxh.nkt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

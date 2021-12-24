@@ -1,0 +1,5 @@
+export const FORGOT_START = 'FORGOT_START';
+export const FORGOT_FAILED = 'FORGOT_FAILED';
+export const FORGOT_SUCCESS = 'FORGOT_SUCCESS';
+export const FORGOT = 'FORGOT';
+export const RESET_STATE_FORGOT = 'RESET_STATE_FORGOT';
